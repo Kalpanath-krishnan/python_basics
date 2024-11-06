@@ -1,0 +1,12 @@
+exception handlng
+
+errors:-
+logical error 
+compile time error
+run time errors
+
+to handle these errors we use exception handling
+try: includes code block
+except: errors 
+else:response after exception
+finally:
